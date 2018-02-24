@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "icecli3-5", "icecli3-5\icecli3-5.vcxproj", "{632F64B4-6F73-41C3-A3E7-67111612E4ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{632F64B4-6F73-41C3-A3E7-67111612E4ED}.Debug|Win32.ActiveCfg = Debug|Win32
+		{632F64B4-6F73-41C3-A3E7-67111612E4ED}.Debug|Win32.Build.0 = Debug|Win32
+		{632F64B4-6F73-41C3-A3E7-67111612E4ED}.Release|Win32.ActiveCfg = Release|Win32
+		{632F64B4-6F73-41C3-A3E7-67111612E4ED}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
